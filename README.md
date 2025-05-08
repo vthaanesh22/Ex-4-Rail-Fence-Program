@@ -2,7 +2,7 @@
 
 # AIM:
 
-# To write a C program to implement the rail fence transposition technique.
+To write a C program to implement the rail fence transposition technique.
 
 # DESCRIPTION:
 
